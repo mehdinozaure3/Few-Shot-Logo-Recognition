@@ -1,0 +1,15 @@
+{
+  "exp_dir": "experiments/exp_006_protonet_noaug",
+  "epochs": 30,
+  "embedding_dim": 256,
+  "lr": 0.0001,
+  "weight_decay": 0.0001,
+  "n_way": 5,
+  "k_shot": 5,
+  "q_query": 10,
+  "episodes_per_epoch": 200,
+  "val_episodes": 100,
+  "aug": false,
+  "device": "mps",
+  "num_base_classes": 80
+}

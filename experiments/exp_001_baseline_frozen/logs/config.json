@@ -1,0 +1,10 @@
+{
+  "device": "mps",
+  "aug": true,
+  "embedding_dim": 256,
+  "batch_size": 64,
+  "epochs": 20,
+  "lr_head": 0.001,
+  "weight_decay": 0.0001,
+  "num_classes": 80
+}

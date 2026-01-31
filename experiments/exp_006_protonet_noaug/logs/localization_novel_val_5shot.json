@@ -1,0 +1,15 @@
+{
+  "split": "novel_val",
+  "k_shot": 5,
+  "max_instances": 200,
+  "stride": 32,
+  "scales": [
+    0.25,
+    0.35,
+    0.45
+  ],
+  "num_eval": 200,
+  "mean_iou": 0.20823958202235723,
+  "success@0.5": 0.105,
+  "success@0.3": 0.35
+}

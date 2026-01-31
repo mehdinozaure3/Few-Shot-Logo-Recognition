@@ -1,0 +1,15 @@
+{
+  "split": "novel_test",
+  "episodes": 1000,
+  "n_way": 5,
+  "k_shot": 5,
+  "q_query_cap_per_class": 10,
+  "num_gallery": 677,
+  "num_query_pool": 290,
+  "episodic_acc_mean": 0.7816863359386308,
+  "episodic_acc_std": 0.08558975715246085,
+  "recall@1": 0.8658604535980353,
+  "recall@5": 0.9278948345956208,
+  "mAP": 0.57393318997237,
+  "num_eval_queries_total": 48457
+}
